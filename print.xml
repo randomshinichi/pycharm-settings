@@ -1,6 +1,7 @@
 <application>
   <component name="PrintSettings">
     <option name="printScope" value="1" />
+    <option name="FONT_SIZE" value="9" />
     <option name="BOTTOM_MARGIN" value="0.5" />
     <option name="LEFT_MARGIN" value="0.5" />
     <option name="RIGHT_MARGIN" value="0.5" />
